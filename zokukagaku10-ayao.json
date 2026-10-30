@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ayao",
  "yomi": "あやおかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸後期",
+  "author": "菅沼斐雄",
+  "desc": "香川景樹の門人菅沼斐雄の家集。「梅近聞鶯」「志賀山越」などの題詠を四季の順に収める。"
+ },
  "editions": [
   {
    "pid": "993388",
